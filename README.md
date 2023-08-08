@@ -6,4 +6,4 @@ In this project used skills are
 1.HTML 
 2.CSS 
 3.JAVASCRIPT
-4.Agora API----A real time communications APIs are present here.(I used Video-calling API from these APIs) 
+4.Agora API----Real-time communication APIs are available here. (I used the Video Calling API from these APIs.)
